@@ -1,0 +1,187 @@
+### JAVA / MAVEN / GRADLE ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+*.jar
+*.war
+*.ear
+*.class
+.flattened-pom.xml
+.gradle
+build/
+out/
+!**/src/main/**/build/
+!**/src/test/**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### SPRING BOOT ###
+**/application-*.properties
+**/application-*.yml
+!**/application-test.properties
+!**/application-test.yml
+.env
+
+### LOGS ###
+logs/
+*.log
+*.log.*
+*.gz
+
+### STS / ECLIPSE ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+.idea_modules/
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+.code-workspace
+
+### OS FILES ###
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+### DOCKER ###
+.docker/
+docker-compose.override.yml
+.env.docker
+
+### NODE (for frontend services) ###
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.pnp/
+.pnp.js
+coverage/
+.next/
+.nuxt/
+dist/
+.cache/
+.parcel-cache/
+
+### MISC ###
+*.swp
+*.bak
+*.tmp
+*~
+.project
+.history
+.svn/
+
+### JAVA / MAVEN / GRADLE ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+*.jar
+*.war
+*.ear
+*.class
+.flattened-pom.xml
+.gradle
+build/
+out/
+!**/src/main/**/build/
+!**/src/test/**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### SPRING BOOT ###
+**/application-*.properties
+**/application-*.yml
+!**/application-test.properties
+!**/application-test.yml
+.env
+
+### LOGS ###
+logs/
+*.log
+*.log.*
+*.gz
+
+### STS / ECLIPSE ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+.idea_modules/
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+.code-workspace
+
+### OS FILES ###
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+### DOCKER ###
+.docker/
+docker-compose.override.yml
+.env.docker
+
+### NODE (for frontend services) ###
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.pnp/
+.pnp.js
+coverage/
+.next/
+.nuxt/
+dist/
+.cache/
+.parcel-cache/
+
+### MISC ###
+*.swp
+*.bak
+*.tmp
+*~
+.project
+.history
+.svn/
